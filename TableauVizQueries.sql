@@ -1,4 +1,4 @@
---Queries for Tableau Viz
+--Queries for Tableau Vizualization
 
 --Query 1: Total Cases, Total Deaths, Death Percentage
 SELECT SUM(new_cases) as TotalCases, SUM(cast(new_deaths as int)) as TotalDeaths, ROUND(SUM(cast(new_deaths as int))/SUM(new_cases)*100,3) AS DeathPercentage
