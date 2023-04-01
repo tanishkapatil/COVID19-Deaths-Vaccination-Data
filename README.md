@@ -1,6 +1,8 @@
 # COVID19 Project
 Welcome to my first ever SQL + Tableau project.
 
+[Tableau Dashboard](https://public.tableau.com/app/profile/tanishka.patil/viz/COVIDGlobalDashboard_16796892491390/Dashboard1)
+
 **Project Description**<br>
 This project analyzes the global COVID19 data. 
 
